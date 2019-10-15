@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">if then else &quot;end if&quot; for in &quot;end for&quot; while &quot;end while&quot; function &quot;end function&quot; break continue</Keywords>
+            <Keywords name="Keywords1">if then else &quot;end if&quot; for in &quot;end for&quot; while &quot;end while&quot; function &quot;end function&quot; break continue return</Keywords>
             <Keywords name="Keywords2">== != &gt; &gt;= &lt; &lt;=&#x000D;&#x000A;</Keywords>
             <Keywords name="Keywords3">abs acos asin atan ceil char cos floor log round rnd pi sign sin sqrt str tan indexOf insert len val code remove lower upper replace split hasIndex val code split join push pop pull indexes values sum sort shuffle remove range</Keywords>
             <Keywords name="Keywords4">print time wait lcoals globals yield _isa input</Keywords>
