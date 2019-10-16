@@ -10,4 +10,12 @@ If anyone has any suggestions on how to improve the existing UDL, please let me 
 
 I will probably also add a dark themed version at some stage, and if anyone else wants to contribute versions for other themes, let me know.
 
+-----
+
+Also included here is the file miniscript-macros.xml. This is a set of macros with shortcuts for the basic code templates for the Miniscript
+"for loop", "while loop","if then" and "if then else" and "function()" statements. Adding them to Notepad++ involves editing your existing shortcuts.xml macro file, and inserting the
+contents of minscript-macros.xml in the middle of this file.
+
+In Windows the macros are saved at %AppData%\Notepad++\shortcuts.xml (Windows logo key + E and copy&paste %AppData%\Notepad++\ into the address bar to find it)
+
 Russell.
